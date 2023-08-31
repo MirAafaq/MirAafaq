@@ -1,29 +1,35 @@
 ### Peace 🍁
 
-HI , MY NAME IS
-# Aafaq Ahmad Mir
-Full stack Developer with a rich experience of over 3 years in website & Android Development
-I have mastered the skills of understanding client requirements according to the latest trends. I have worked with businesses from different niches.
-# Skills
+Hi there! 👋 My name is **Aafaq Ahmad Mir**, and I'm a **Full Stack Developer** with a rich experience of over 3 years in website and Android development. I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.
+
+## Skills 🚀
+Here's a glimpse of the technologies I've worked with:
+
+💻 **Programming Languages:**  
 - PHP
-- MySql
-- R
 - Python
+- R
 - JavaScript
 - Java
 - C
 - C++
 - Shell
+
+🌐 **Web Development:**  
 - HTML
 - CSS
+
+📊 **Database:**  
+- MySQL
+- MongoDB
+
+🛠️ **Frameworks & Libraries:**  
 - Laravel
 - Django
 - React
 - ReactPHP
-- Laravel-livewire
-- MongoDB
-
-  
+- Laravel Livewire
 
 ![Aafaq Ahmad Mir](https://codejourney.in/App/Uploads/External/Images/d4a.jpg)
 
+Feel free to reach out if you're interested in collaborating or discussing projects. Connect with me through my [LinkedIn](https://www.linkedin.com/in/aafaq-mir/) profile. Let's build something awesome together!
