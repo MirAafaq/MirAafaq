@@ -11,9 +11,6 @@ Here's a glimpse of the technologies I've worked with:
 - R
 - JavaScript
 - Java
-- C
-- C++
-- Shell
 
 🌐 **Web Development:**  
 - HTML
