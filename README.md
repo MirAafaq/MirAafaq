@@ -37,6 +37,15 @@ Here's a glimpse of the technologies I've worked with:
 - Rust
 - Solidity
 
+💻 **Interests:**
+- Data Science
+- Data Analyst
+- Machine Learning
+- Web 3
+- API's and Plugins
+- Android Interfaces
+  
+
 
 ![Aafaq Ahmad Mir](https://codejourney.in/App/Uploads/External/Images/d4a.jpg)
 
