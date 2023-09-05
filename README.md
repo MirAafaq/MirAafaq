@@ -41,7 +41,7 @@ Here's a glimpse of the technologies I've worked with:
 - Web Development
 - Data Science
 - Data Analyst
-- Machine Learning
+- Machine Learning and AI
 - Web 3
 - API's and Plugins
 - Android Interfaces
