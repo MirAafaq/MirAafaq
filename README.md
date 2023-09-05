@@ -35,6 +35,7 @@ Here's a glimpse of the technologies I've worked with:
 - c++
 - Ruby
 - Rust
+- Solidity
 
 
 ![Aafaq Ahmad Mir](https://codejourney.in/App/Uploads/External/Images/d4a.jpg)
