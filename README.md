@@ -44,6 +44,8 @@ Here's a glimpse of the technologies I've worked with:
 - Web 3
 - API's and Plugins
 - Android Interfaces
+- Data Structure
+- Automation
   
 
 
