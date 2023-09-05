@@ -52,4 +52,4 @@ Here's a glimpse of the technologies I've worked with:
 
 ![Aafaq Ahmad Mir](https://codejourney.in/App/Uploads/External/Images/d4a.jpg)
 
-Feel free to reach out if you're interested in collaborating or discussing projects. Connect with me through my [Instagram](https://instagram.com/mir.aafaq/) profile. Let's build something awesome together!
+Feel free to reach out if you're interested in collaborating or discussing projects. Follow with me through my [Instagram](https://instagram.com/mir.aafaq/) profile. Let's build something awesome together!
