@@ -30,6 +30,12 @@ Here's a glimpse of the technologies I've worked with:
 💻 **Android Development:**
 - Android Studio(Java)
 
+💻 **Programming Languages Level(Intermediate):**
+- c
+- c++
+- Ruby
+- Rust
+
 
 ![Aafaq Ahmad Mir](https://codejourney.in/App/Uploads/External/Images/d4a.jpg)
 
