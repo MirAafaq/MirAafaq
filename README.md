@@ -26,6 +26,10 @@ Here's a glimpse of the technologies I've worked with:
 - React
 - ReactPHP
 - Laravel Livewire
+  
+💻 **Android Development:**
+- Android Studio(Java)
+
 
 ![Aafaq Ahmad Mir](https://codejourney.in/App/Uploads/External/Images/d4a.jpg)
 
