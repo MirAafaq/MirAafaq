@@ -46,6 +46,7 @@ Here's a glimpse of the technologies I've worked with:
 - Android Interfaces
 - Data Structure
 - Automation
+- Research
   
 
 
