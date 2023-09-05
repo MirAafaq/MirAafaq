@@ -38,6 +38,7 @@ Here's a glimpse of the technologies I've worked with:
 - Solidity
 
 💻 **Interests:**
+- Web Development
 - Data Science
 - Data Analyst
 - Machine Learning
