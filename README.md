@@ -24,8 +24,8 @@ Here's a glimpse of the technologies I've worked with:
 - Laravel
 - Django
 - React
-- ReactPHP
-- Laravel Livewire
+
+  
   
 💻 **Android Development:**
 - Android Studio(Java)
@@ -34,8 +34,7 @@ Here's a glimpse of the technologies I've worked with:
 - c
 - c++
 - Ruby
-- Rust
-- Solidity
+
 
 💻 **Interests:**
 - Web Development
