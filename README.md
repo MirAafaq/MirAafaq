@@ -1,6 +1,6 @@
-<h1 align="center">Peace 🍁  I'm Aafaq Ahmad Mir</h1>
+<h1>Peace 🍁  I'm Aafaq Ahmad Mir</h1>
 
-<h5 align="center">My name is Aafaq Ahmad Mir, and I'm a Full Stack Developer with a rich freelance experience of over 2 years in website develoment and 1 year in Android development.<br> I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.</h5>
+<h5>My name is Aafaq Ahmad Mir, and I'm a Full Stack Developer with a rich freelance experience of over 2 years in website develoment and 1 year in Android development.I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraafaq&label=Profile%20views&color=0e75b6&style=flat" alt="miraafaq" /> </p>
 
