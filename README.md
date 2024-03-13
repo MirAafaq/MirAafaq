@@ -1,6 +1,6 @@
-<h1 align="center">>Peace 🍁  I'm Aafaq Ahmad Mir</h1>
-<img src="https://camo.githubusercontent.com/7cdfffd1088e08f93b2d87d4759628051e67275ec16b6db5494d2995ecc529dd/68747470733a2f2f636f64656a6f75726e65792e696e2f4170702f55706c6f6164732f45787465726e616c2f496d616765732f6434612e6a7067">
-<h3 align="center">My name is Aafaq Ahmad Mir, and I'm a Full Stack Developer with a rich freelance experience of over 2 years in website develoment and 1 year in Android development. I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.</h3>
+<h1 align="center">Peace 🍁  I'm Aafaq Ahmad Mir</h1>
+
+<h5 align="center">My name is Aafaq Ahmad Mir, and I'm a Full Stack Developer with a rich freelance experience of over 2 years in website develoment and 1 year in Android development.<br> I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miraafaq&label=Profile%20views&color=0e75b6&style=flat" alt="miraafaq" /> </p>
 
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miraafaq&show_icons=true&locale=en" alt="miraafaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miraafaq&" alt="miraafaq" /></p>
+<img src="https://camo.githubusercontent.com/7cdfffd1088e08f93b2d87d4759628051e67275ec16b6db5494d2995ecc529dd/68747470733a2f2f636f64656a6f75726e65792e696e2f4170702f55706c6f6164732f45787465726e616c2f496d616765732f6434612e6a7067">
