@@ -11,11 +11,7 @@
 
 - 👨‍💻 Know More About Me [https://miraafaq.in](https://miraafaq.in)
 
-- 📝 I regularly write articles on [https://informationia.com](https://informationia.com)
-
 - 📫 How to reach me **mira77065@gmail.com**
-
-- 📄 Download My Resume [https://miraafaq.in/MyResume/MirAafaqResume.pdf](https://miraafaq.in/MyResume/MirAafaqResume.pdf)
 
 - ⚡Strength **Agile and Innovative**
 
