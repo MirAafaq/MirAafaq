@@ -19,4 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miraafaq&show_icons=true&locale=en" alt="miraafaq" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miraafaq&" alt="miraafaq" /></p>
-<img src="https://camo.githubusercontent.com/7cdfffd1088e08f93b2d87d4759628051e67275ec16b6db5494d2995ecc529dd/68747470733a2f2f636f64656a6f75726e65792e696e2f4170702f55706c6f6164732f45787465726e616c2f496d616765732f6434612e6a7067">
+
