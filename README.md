@@ -1,4 +1,3 @@
-<img style="width:100%;" src="https://camo.githubusercontent.com/9790442a186cf9984a391793e2586ba6c8840cb5a698e26a425d670880f617c5/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966">
 <h1>Peace 🍁  I'm Aafaq Ahmad Mir</h1>
 
 <p>My name is <b>Aafaq Ahmad Mir</b>, and I'm a Full Stack Developer with a rich freelance experience of over 2 years in website develoment and 1 year in Android development.I'm passionate about turning ideas into functional and user-friendly digital solutions. I've honed my skills in understanding client requirements and crafting applications that align with the latest trends. I've had the privilege to work with businesses from diverse niches.</p>
