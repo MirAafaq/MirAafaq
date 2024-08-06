@@ -1,5 +1,5 @@
 <h1>Peace 🍁  I'm Aafaq Ahmad Mir</h1>
-```
+```bash
 USE [HCS_DB]
 GO
 /****** Object:  StoredProcedure [dbo].[prNonAvailabilityStatusUpdate]    Script Date: 8/6/2024 4:32:43 PM ******/
